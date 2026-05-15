@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "play.play.hosting",
-    "port": 50687,
+    "ip": "127.0.0.1",
+    "port": 46339,
     "version": "1.20.1",
     "try-creative": false
   },
